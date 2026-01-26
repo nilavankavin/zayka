@@ -13,4 +13,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://zayka.vercel.app/sitemap.xml
+Sitemap: https://zayka-restaurant-demo.vercel.app/sitemap.xml
