@@ -1,3 +1,5 @@
+![Zayka banner](public/preview.jpg)
+
 # 🍕 Zayka – Restaurant Demo Website
 
 **Zayka** is a modern **restaurant demo website** with a digital menu, add-to-cart functionality, and **WhatsApp ordering**.  
